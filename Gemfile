@@ -4,12 +4,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
 end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-<<<<<<< HEAD
 gem 'rails'
 gem 'sqlite3', '~>1.3.6'
-=======
-gem 'rails', '4.2.1'
->>>>>>> c05d7be38d7b1e5dcb196c16b1eab74381feed49
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
